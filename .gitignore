@@ -1,0 +1,11 @@
+# Git Ignore File - Altium Projects
+
+# Altium thumbnail files
+**/__Previews/
+# Altium backup archives
+**/History/
+
+Assembly\ Exports/
+*.rawProject\ Outputs*/
+# Altium metadata file
+*.PcbDoc.htm
