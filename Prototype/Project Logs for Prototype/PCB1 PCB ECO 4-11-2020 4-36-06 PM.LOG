@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=ADC_Out Pin=U1-8
+Added Pin To Net: NetName=ADC_Out Pin=U1-12
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 150080RS75000
