@@ -9,3 +9,8 @@ Assembly\ Exports/
 *.rawProject\ Outputs*/
 # Altium metadata file
 *.PcbDoc.htm
+
+# Solidworks
+# ignore SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
