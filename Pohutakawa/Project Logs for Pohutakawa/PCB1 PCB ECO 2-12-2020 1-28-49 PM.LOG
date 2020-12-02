@@ -1,0 +1,37 @@
+Change component parameters: Designator = "R1" ("R1"); Footprint = "Resistor 1206"; UniqueID = "\SNEHOFAG" ("\SNEHOFAG")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=ACC_Out Pin=C1-2
+Added Pin To Net: NetName=ACC_Out Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Pin To Net: NetName=V_Batt Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=ACC_Out Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=VS Pin=U1-14
+Added Pin To Net: NetName=VS Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component D1 RB168M-40TR
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 2SC5785(TE12L,F)
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ADXL335BCPZ
